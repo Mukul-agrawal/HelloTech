@@ -4,7 +4,7 @@
  
  ## :trophy: Brief introduction about a project:
 <br>
-An online shopping mart permits a customer to submit online orders for items and/or services from a store that serves both walk- in customers and online customers. The Online Store System presents an online display of all the items they want to sell. This web based application helps customers to choose their daily needs and add products to their shopping cart. Customers provide their complete detail of address and contact so they can get their chosen products at their home. This web application saves lots of time of customers.
+Technology and electronics brands compete with the big players – like Apple and Dell – as well as well-known disrupters like Fit Bit. Beyond the challenging competitors, there are ever-changing product innovations in this industry and the ecommerce industry itself is constantly evolving. The best technology and electronics sites are poised to cash-in on this $350 million industry, giving consumers the online shopping experience they’re looking for.
 <br><br> 
 We will be using php/html for the front-end and php MyAdmin for the back-end. The
 styling part will be done using CSS while the functionality will be added using JavaScript. We
