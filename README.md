@@ -37,31 +37,34 @@ Our methodology is designed to help you take maximum advantage of the internet t
 <br>
 <p align="center">
  
-![ER-Diagram](https://github.com/krishnaguptaa/The-Grocers-Market/blob/main/erdiagram.png)
+![Use Case Diagram](https://github.com/krishnaguptaa/HelloTech/blob/main/usecase.png)
 
 </p>
 <br><br><br>
 
 ## :trophy: Languages/Frameworks Used:
 <br>
-:shaved_ice: PHP<br>
-:shaved_ice: SQL<br>
 :shaved_ice: HTML<br>
 :shaved_ice: CSS<br>
 :shaved_ice: JS<br>
 :shaved_ice: Bootstrap<br>
+:shaved_ice: MongoDB<br>
+:shaved_ice: ReactJS<br>
+:shaved_ice: Express<br>
+:shaved_ice: Node.JS<br>
 <br><br>
 
 ## :trophy: Database: <br>
-:airplane: MySQL
+:airplane: MongoDB
 <br><br>
 
 ## :trophy: Software: <br>
-:desert_island: XAMPP 
+:desert_island: VScode
 <br><br>
 
 ## :trophy: Group Members :
 <br>
 📘 Krishna Gupta <br>
 📘 Mukul Agrawal <br>
-📘 Nitin Kumar <br>
+📘 Mukund Agrawal <br>
+📘 Vishal Singh <br>
